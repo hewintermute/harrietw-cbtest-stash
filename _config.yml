@@ -23,7 +23,7 @@ title: Test CB harrietw
 tagline: some yarn pretties
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A test of CollectionBuilder-GH using a selection of yarn stash in images and metadata. 
+description: "A test of CollectionBuilder-GH using a selection of yarn stash in images and metadata."  
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder, Harriet W
 
