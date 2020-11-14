@@ -35,7 +35,7 @@ To build one, a user writes in [Markdown](https://guides.github.com/features/mas
 
 - PDF -- > `{% raw %}{% include feature/item-pdf-embed.html objectid="demo_002"  width="25" %}{% endraw %}`
 
-{% include feature/item-pdf-embed.html objectid="demo_002" width="25" %}
+{% include feature/item-pdf-embed.html objectid="coll001" width="25" %}
 
 - Video: `{% raw %}{% include feature/item-video-embed.html objectid="demo_004" %}{% endraw %}`
 
